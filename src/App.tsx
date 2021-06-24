@@ -6,6 +6,8 @@ import { Room } from "./pages/Room";
 
 import { AuthContextProvider } from './contexts/AuthContext';
 
+import './styles/global.scss';
+
 function App() {
   return (
     <BrowserRouter>
